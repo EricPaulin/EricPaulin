@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Eric Paulin, an aspiring UX engineer.
+# 🇲🇽 Hello, World. I'm Eric Paulin [UX Engineer] 🇵🇭
 
 - 🔭 Currently: Byte Frames (full stack)
 - 🌱 Learning: JavaScript + React paradigm, Jest, Node.js
