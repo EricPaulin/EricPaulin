@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Eric Paulin, an aspiring UX engineer.
 
 - 🔭 Currently: Byte Frames (full stack)
-- 🌱 Learning: JavaScript and React paradigm
+- 🌱 Learning: JavaScript + React paradigm, Jest, Node.js
 - 👀 Interests: Music, Game Development
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
