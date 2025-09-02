@@ -1,6 +1,6 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [UX Engineer] 🇵🇭
 
-- 🔭 Currently: Byte Frames (full stack)
+- 🔭 Currently: Blind75
 - 🌱 Learning: JavaScript + React paradigm, Jest, Node.js
 - 👀 Interests: Music, Game Development
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
