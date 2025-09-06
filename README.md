@@ -1,12 +1,12 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [UX Engineer] 🇵🇭
 
-- 🔭 Currently: Blind75
-- 🌱 Learning: JavaScript + React paradigm, Jest, Node.js
+- 🔭 Currently: Blind75, Chef App [2.0]
+- 🌱 Learning: TypeScript, React paradigm, Jest
 - 👀 Interests: Music, Game Development
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,figma,materialui,jest,nodejs,npm,git,godot" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,figma,materialui,jest,nodejs,npm,git,godot" />
 </p>
 
 <!--
