@@ -1,7 +1,7 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [UX Engineer] 🇵🇭
 
-- 🔭 Currently: Blind75, Chef App [2.0]
-- 🌱 Learning: TypeScript, React paradigm, Jest
+- 🔭 Currently: Blind75
+- 🌱 Learning: TypeScript, Jest
 - 👀 Interests: Music, Game Development
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
