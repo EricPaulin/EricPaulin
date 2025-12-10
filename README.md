@@ -1,12 +1,12 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [UX Engineer] 🇵🇭
 
-- 🔭 Currently: Blind75
-- 🌱 Learning: TypeScript, Jest
-- 👀 Interests: Music, Game Development
+- 🔭 Currently: Godot Game
+- 🌱 Learning: GDScript, Blender, Aseprite
+- 👀 Interests: Music, Art, Game Development
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,figma,materialui,jest,nodejs,npm,git,godot" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,figma,materialui,jest,nodejs,npm,git,godot,blender" />
 </p>
 
 <!--
