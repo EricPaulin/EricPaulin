@@ -1,12 +1,12 @@
-# 🇲🇽 Hello, World. I'm Eric Paulin [Systems & Quality Engineer] 🇵🇭
+# 🇲🇽 Hello, World. I'm Eric Paulin [Game Designer & Developer] 🇵🇭
 
-- 🔭 Currently: Embedded Systems
-- 🌱 Learning: C++, Data Structures & Algorithms
-- 👀 Interests: Music, Art
+- 🔭 Currently: Game Jam 👾
+- 🌱 Learning: GDScript, Blender
+- 👀 Interests: Music, Art, Manga, Baking, Games
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,html,css,react,figma,materialui,jest,nodejs,npm,git,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,godot,blender,ableton,ts,js,react,jest,git,notion" />
 </p>
 
 <!--
