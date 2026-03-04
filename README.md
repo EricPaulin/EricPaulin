@@ -1,12 +1,12 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [Game Designer & Developer] 🇵🇭
 
-- 🔭 Currently: Godot Game
-- 🌱 Learning: GDScript, Blender, Aseprite
+- 🔭 Currently: C++, Godot Game
+- 🌱 Learning: C++ (relearning), GDScript, Blender
 - 👀 Interests: Music, Manga, Baking, Games
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=godot,blender,figma,ableton,ts,js,react,html,css,jest,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,godot,git,jest,figma,blender,ableton,ts,js,react" />
 </p>
 
 <!--
