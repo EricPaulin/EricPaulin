@@ -6,7 +6,7 @@
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,godot,git,jest,figma,blender,ableton,ts,js,react" />
+  <img src="https://skillicons.dev/icons?i=godot,git,jest,figma,blender,ableton,ts,js,react" />
 </p>
 
 <!--
