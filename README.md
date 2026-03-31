@@ -1,7 +1,7 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [Software Developer & Engineer] 🇵🇭
 
-- 🔭 Currently: Project Refactoring
-- 🌱 Learning: TypeScript
+- 🔭 Currently: Leetcode
+- 🌱 Learning: C#, Blender
 - 👀 Interests: Music, Baking
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
