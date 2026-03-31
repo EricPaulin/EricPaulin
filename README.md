@@ -1,4 +1,4 @@
-# 🇲🇽 Hello, World. I'm Eric Paulin [Software Developer & Engineer] 🇵🇭
+# 🇲🇽 Hello, World. I'm Eric Paulin [Game & Web Developer] 🇵🇭
 
 - 🔭 Currently: Leetcode
 - 🌱 Learning: C#, Blender
