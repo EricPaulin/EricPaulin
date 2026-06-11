@@ -1,7 +1,7 @@
 # 🇲🇽 Hello, World. I'm Eric Paulin [Game & Web Developer] 🇵🇭
 
-- 🔭 Currently: Leetcode
-- 🌱 Learning: C#, Blender
+- 🔭 Currently: Game Development
+- 🌱 Learning: C#, Blender, Pixel Art
 - 👀 Interests: Music, Baking
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
