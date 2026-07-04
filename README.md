@@ -1,12 +1,12 @@
-# 🇲🇽 Hello, World. I'm Eric Paulin [Game & Web Developer] 🇵🇭
+# 🇲🇽 Hello, World. I'm Eric Paulin [Game Designer | Game Test Analyst] 🇵🇭
 
 - 🔭 Currently: Game Development
 - 🌱 Learning: C#, Blender, Pixel Art
-- 👀 Interests: Music, Baking
+- 👀 Interests: Music, Baking, Manga
 - 📫 Connect: [Portfolio](https://ericpaulin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/victor-p-01686a256/)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,react,nodejs,npm,git,figma,blender,godot" />
+  <img src="https://skillicons.dev/icons?i=cs,godot,figma,blender,ableton,ts,js,react,nodejs,npm" />
 </p>
 
 <!--
