@@ -1,4 +1,4 @@
-# 🇲🇽 Hello, World. I'm Eric Paulin [Game & UI/UX Developer] 🇵🇭
+# 🇲🇽 Hello, World. I'm Eric Paulin [Game Designer | UI/UX Designer] 🇵🇭
 
 - 🔭 Currently: Game Development
 - 🌱 Learning: C#, Blender, Pixel Art
